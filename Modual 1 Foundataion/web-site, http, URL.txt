@@ -1,10 +1,10 @@
 * Do search for web-site, http, URL etc given topics in lecture.
 
 1>    What is the website?
-Ans : A website is a collection of many web pages, and web pages are digital files that are written using HTML(HyperText Markup Language). To make your            website available to every person in the world, it must be stored or hosted on a computer connected to the Internet round a clock. Such computers are       known as a Web Server.
+Ans : A website is a collection of many web pages, and web pages are digital files that are written using HTML(HyperText Markup Language). To make your website available to every person in the world, it must be stored or hosted on a computer connected to the Internet round a clock. Such computers are known as a Web Server.
 
 2>    What is the http?
-Ans : The Hypertext Transfer Protocol (HTTP) is the foundation of the World Wide Web, and is used to load webpages using hypertext links. HTTP is an             application layer protocol designed to transfer information between networked devices and runs on top of other layers of the network protocol stack. A       typical flow over HTTP involves a client machine making a request to a server, which then sends a response message.
+Ans : The Hypertext Transfer Protocol (HTTP) is the foundation of the World Wide Web, and is used to load webpages using hypertext links. HTTP is an application layer protocol designed to transfer information between networked devices and runs on top of other layers of the network protocol stack. A typical flow over HTTP involves a client machine making a request to a server, which then sends a response message.
 
 3>    What is the url?
-Ans : URL stands for Uniform Resource Locator. A URL is nothing more than the address of a given unique resource on the Web. In theory, each valid URL       points to a unique resource.
+Ans : URL stands for Uniform Resource Locator. A URL is nothing more than the address of a given unique resource on the Web. In theory, each valid URL points to a unique resource.
